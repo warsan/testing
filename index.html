@@ -18,7 +18,9 @@
       new Vue({
         el: "#editor",
         data: {
-          input: "# привет"
+          input: "# Привет" + 
+                 "\n## Привет" + 
+                 "\n### Привет"
         },
         computed: {
           compiledMarkdown: function() {

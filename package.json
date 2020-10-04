@@ -1,7 +1,7 @@
 {
   "name": "markdown",
   "version": "1.0.0",
-  "description": "Редактор Маркдоун",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "serve"
